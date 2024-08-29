@@ -5,5 +5,5 @@ function average(arr: number[]) {
 }
 
 console.log(average([42, 100, 50, 6, 90]));
-console.log(average(6));
-console.log(average(["ten", "6", 10]));
+console.log(average([6]));
+console.log(average([10, 6, 10]));
